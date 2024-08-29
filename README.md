@@ -3,7 +3,7 @@
 Hi, I'm Zaw Zaw Myint, a frontend developer specializing in React.js.
 
 ## 🚀 Skills
-- **Frontend:** React.js, TypeScript, Next.js, HTML, CSS
+- **Frontend:** React.js, TypeScript, Next.js, HTML, CSS, TailwindCss
 - **Backend:** Node.js, Express.js, Java
 - **Tools:** VSCode, Git
 
