@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**zawzawmyint/zawzawmyint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Zaw Zaw Myint, a frontend developer specializing in React.js.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Frontend:** React.js, TypeScript, Next.js, HTML, CSS
+- **Backend:** Node.js, Express.js, Java
+- **Tools:** VSCode, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://github.com/zawzawmyint)](https://www.linkedin.com/in/zaw-zaw-myint-29745a199/))
+- [Twitter]([https://twitter.com/your-profile](https://x.com/ZmMusk))
+- [Portfolio]([https://twitter.com/your-profile](https://x.com/ZmMusk)](https://zawzawmyint-alpha-portfolio.vercel.app/))
+
+## 📊 GitHub Stats
+![Zaw Zaw Myint's GitHub stats](https://github-readme-stats.vercel.app/api?username=zawzawmyint&show_icons=true&theme=radical)
+
