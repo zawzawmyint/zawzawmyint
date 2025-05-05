@@ -1,9 +1,6 @@
 
-<div align="center">
 
-# Zaw Zaw Myint
-
-### Frontend Developer | Typescript | React & Next.js Specialist
+<div align="center"> <!-- Custom header image with Poppins font can be created at https://readme-typing-svg.herokuapp.com/ --> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&height=60&lines=Zaw+Zaw+Myint;Frontend+Developer;React | Nextjs Specialist;" alt="Zaw Zaw Myint - Frontend Developer" /> <!-- Role description is now in the animated typing effect above -->
 
 [![Profile Views](https://komarev.com/ghpvc/?username=zawzawmyint&color=blueviolet&style=for-the-badge)](https://github.com/zawzawmyint) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaw-zaw-myint-29745a199/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ZmMusk) [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://zawzawmyint.vercel.app/)
 
@@ -53,14 +50,8 @@ Passionate frontend developer with expertise in modern JavaScript frameworks and
 
 ## 🌱 Current Focus
 
-**Mastering advanced React patterns and server components in Next.js**
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=4000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&height=40&lines=Mastering+advanced+React+patterns+and+server+components+in+Next.js" alt="Current Focus" /> </div>
 
 ----------
 
-<div align="center">
-
-### 💼 Open to collaboration and new opportunities!
-
-</div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&height=30&lines=💼+Open+to+collaboration+and+new+opportunities!" alt="Open to collaboration" /> </div>
